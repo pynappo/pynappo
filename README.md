@@ -1,5 +1,3 @@
-games and web dev sounds cool let's try doing stuff
-
 discord: Pinebapple#4140 
 reddit: u/Some_Derpy_Pineapple
 
