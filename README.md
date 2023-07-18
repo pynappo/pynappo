@@ -1,4 +1,4 @@
-discord: Pinebapple#4140 
+discord: bappled
 reddit: u/Some_Derpy_Pineapple
 
 <!---
