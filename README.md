@@ -1,5 +1,6 @@
-discord: bappled
-reddit: u/Some_Derpy_Pineapple
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pynappo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://img.shields.io/github/stars/pynappo?label=Stars" alt="stars">
 
 <!---
 pynappo/pynappo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
